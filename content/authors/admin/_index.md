@@ -81,6 +81,3 @@ highlight_name: true
 I am a postdoctoral researcher at the University of Helsinki. I am a multidisciplinarian studying sustainable cultural evolution, collective behaviour change, and decision-making under uncertainty. I have a soft spot for complex systems and philosophy of science.
 
 In my free time I am an amateur musician who loves nature, hiking, foraging, [photography](https://500px.com/roopekaaronen), and coffee. I also write popular science. I am always on the lookout for new ideas and inspirations, so please don't hesitate to contact me.
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
