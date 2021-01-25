@@ -22,7 +22,7 @@ publication_types: ["7"]
 # Publication name and optional abbreviated publication name.
 publication: In *Publications of the Faculty of Social Sciences*
 
-abstract: 
+abstract: This transdisciplinary doctoral thesis presents various theoretical, methodological and empirical approaches that together form an ecological approach to the study of social sciences. The key argument follows. To understand how sustainable behaviours and cultures may emerge, and how their development can be facilitated, we must further learn how behaviours emerge as a function of the person and the material and social environment. Furthermore, in this thesis the sustainability crises are framed as sustain-ability crises. We must better equip our cultures with abilities to deal with the complexity and uncertainty of socio-ecological systems, and use these cultural skillsets to survive in and adapt to an increasingly unpredictable world. This thesis employs a plurality of ecological social sciences and related methodologies—such as ecological psychology, ecological rationality and agent-based modelling—to enlighten the question of how the collective adoption of sustainable behaviours can be leveraged, particularly by changing the affordances in the material environment. What is common to these ecological approaches is the appreciation of ‘processes’ over ‘products’. We must understand the various processes through which sustainable forms of behaviour or decision-making emerge to truly locate leverage points in social systems. Finally, this thesis deals extensively with uncertainty in complex systems. It proposes that we can look to local and traditional knowledge in learning how to deal adaptively with uncertainty.
 
 # Summary. An optional shortened abstract.
 summary: 
