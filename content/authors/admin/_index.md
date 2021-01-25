@@ -22,6 +22,7 @@ interests:
 - Cognitive Science
 - Decision-Making
 - Complexity
+- Agent-Based Modelling
 
 # Education to show in About widget
 education:
