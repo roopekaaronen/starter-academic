@@ -1,39 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Roope O. Kaaronen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Helsinki
+  url: https://www.helsinki.fi/en/helsinki-institute-of-sustainability-science
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include sustainable cultural evolution, collective behaviour change and decision-making under uncertainty.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cultural Evolution
+- Cognitive Science
+- Decision-Making
+- Complexity
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Environmental Policy
+    institution: University of Helsinki
+    year: 2020
+  - course: MSocSc in Environmental Policy
+    institution: University of Helsinki
+    year: 2016
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,16 +44,25 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/roopekaaronen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=EsXnjv8AAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
+  link: https://github.com/roopekaaronen
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0002-2414-6974
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Roope_Kaaronen
+- icon: 500px
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://500px.com/roopekaaronen
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/open?id=1UM7snydD8WeHyL6cC0beMCbpBWx0LbwK
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,14 +72,15 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "first.lastname@helsinki.fi"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral researcher at the University of Helsinki. I am a multidisciplinarian studying sustainable cultural evolution, collective behaviour change, and decision-making under uncertainty. I have a soft spot for complex systems and philosophy of science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my free time I am an amateur musician who loves nature, hiking, foraging, [photography](https://500px.com/roopekaaronen), and coffee. I also write popular science. I am always on the lookout for new ideas and inspirations, so please don't hesitate to contact me.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
