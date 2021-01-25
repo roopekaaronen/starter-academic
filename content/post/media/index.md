@@ -2,6 +2,9 @@
 title: List of popular scientific articles and media appearances.
 subtitle: I write pop science in English and Finnish.
 
+reading_time: false
+
+
 # Summary for listings and search engines
 summary: "I write pop science in English and Finnish."
 
@@ -53,7 +56,7 @@ categories:
 - [The Ecology of Ecological Behavior, The Conventions](https://www.theconventions.com/articles/society/the-ecology-of-ecological-behavior)
 - [Much Ado About Impact, The Conventions](https://www.theconventions.com/articles/society/much-ado-about-impact)
 ## In media
-- [The Side View, Podcast](https://thesideview.co/podcasts/tsv-episode-5/)
+- [The Side View Podcast](https://thesideview.co/podcasts/tsv-episode-5/)
 - [Increasing opportunities for sustainable behaviour, IIASA](https://www.iiasa.ac.at/web/home/about/news/200124-sustainable-bahavior.html)
 - [How the environment shapes the way we behave, IIASA](https://blog.iiasa.ac.at/2019/07/26/how-the-environment-shapes-the-way-we-behave/)
 
