@@ -82,3 +82,5 @@ highlight_name: true
 I am a postdoctoral researcher at the University of Helsinki. My interests include sustainable cultural evolution, collective behaviour change, and decision-making under uncertainty. I have a soft spot for complex systems and philosophy of science.
 
 In my free time I am an amateur musician who loves nature, hiking, foraging, [photography](https://500px.com/roopekaaronen), and coffee. I also write popular science. I am always on the lookout for new ideas and inspirations, so please don't hesitate to contact me.
+
+My main affiliation currently is with the [Past Present Sustainability Research Unit](https://www.researchgate.net/lab/Past-Present-Sustainability-Research-Unit-PAES-Jussi-T-Eronen).
