@@ -9,8 +9,8 @@ authors:
 - admin
 - Robert Latzman
 
-date: "2020-09-01T00:00:00Z"
-doi: "10.31234/osf.io/aqv6n"
+date: "2021-04-01T00:00:00Z"
+doi: "10.1111/spc3.12595"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,12 +19,12 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *PsyArXiv*
+publication: In *Social and Personality Psychology Compass*
 
-abstract: 
+abstract: The ecological approach to perception highlights how organisms engage in active perception and that the environment is understood relative to an individual's physical traits. Personality research draws attention to the variability in psychological traits that affect the way individuals differentially explore and anticipate the world. The current paper identifies compatibilities in these fields and suggests that personality both initiates and perpetuates the manner with which individuals engage in active perception. Personality traits both drive and limit perceptual refinement of the world and also lead to the construction of niches to suit personality. Here, we explore the benefits for considering individual differences in perception and active perception in regards to personality theory, comparative psychology, mental health, research methodology, and intervention. We conclude by encouraging both ecological and personality research to consider the benefits of understanding personality traits as mechanisms for initiating or constraining active perception.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -39,7 +39,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://psyarxiv.com/aqv6n/download'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/spc3.12595'
 #url_code: 'https://doi.org/10.25937/z8x6-2v73'
 #url_dataset: 'https://github.com/roopekaaronen/affordance'
 #url_poster: ''
