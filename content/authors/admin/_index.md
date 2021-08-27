@@ -30,7 +30,7 @@ education:
   - course: PhD in Social Sciences
     institution: University of Helsinki
     year: 2020
-  - course: Master's in Social Sciences
+  - course: M.Soc.Sc.
     institution: University of Helsinki
     year: 2016
 
