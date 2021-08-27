@@ -27,10 +27,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Environmental Policy
+  - course: PhD in Social Sciences
     institution: University of Helsinki
     year: 2020
-  - course: MSocSc in Environmental Policy
+  - course: Master's in Social Sciences
     institution: University of Helsinki
     year: 2016
 
@@ -83,4 +83,4 @@ I am a postdoctoral researcher at the University of Helsinki. My interests inclu
 
 In my free time I am an amateur musician who loves nature, hiking, foraging, [photography](https://500px.com/roopekaaronen), and coffee. I also write popular science. I am always on the lookout for new ideas and inspirations, so please don't hesitate to contact me.
 
-I am affiliated with the [Past Present Sustainability Research Unit](https://www.researchgate.net/lab/Past-Present-Sustainability-Research-Unit-PAES-Jussi-T-Eronen).
+I am affiliated with the [Past Present Sustainability Research Unit](https://researchportal.helsinki.fi/en/organisations/past-present-sustainability-paes-research-unit).
