@@ -68,7 +68,7 @@ categories:
 - [Kestävyyskriisi on myös suunnittelukriisi, WISE](https://wiseproject.fi/kestavyyskriisi-on-myos-suunnittelukriisi/)
 - [Riskienhallintaa sienimetsässä, WISE](https://wiseproject.fi/riskienhallintaa-sienimetsassa/)
 ## In media
-- [Intuitiolla metsään, Ylopisto-lehti](http://docs.unigrafia.fi/yliopisto-lehti_naytenumero/#/article/6/page/1-1)
+- [Intuitiolla metsään, Yliopisto-lehti](http://docs.unigrafia.fi/yliopisto-lehti_naytenumero/#/article/6/page/1-1)
 - [Katse yli koronan, Yle](https://yle.fi/uutiset/3-11839261)
 - [Olemme nyt käyttäneet koko vuoden uusiutuvat luonnonvarat, Yle](https://yle.fi/uutiset/3-11501624)
 - [Planeettavaluutta yksi ratkaisu maapallon kestävyyskriisiin, Yle](https://yle.fi/aihe/artikkeli/2020/04/11/planeettavaluutta-yksi-ratkaisu-maapallon-kestavyyskriisiin)
