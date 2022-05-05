@@ -14,7 +14,7 @@ organizations:
   url: https://www.helsinki.fi/en/helsinki-institute-of-sustainability-science
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include sustainable cultural evolution, collective behaviour change and decision-making under uncertainty.
+bio: Researcher of sustainable cultural evolution, collective behaviour change and decision-making under uncertainty.
 
 # Interests to show in About widget
 interests:
@@ -81,6 +81,6 @@ highlight_name: true
 
 I am a postdoctoral researcher at the University of Helsinki. My interests include sustainable cultural evolution, collective behaviour change, and decision-making under uncertainty. I have a soft spot for complex systems and philosophy of science.
 
-In my free time I am an amateur musician who loves nature, hiking, foraging, [photography](https://500px.com/roopekaaronen), and coffee. I also write popular science. I am always on the lookout for new ideas and inspirations, so please don't hesitate to contact me.
+In my free time I am an amateur musician who enjoys nature, hiking, foraging, [photography](https://500px.com/roopekaaronen), and kayaking. I also write popular science. I am always on the lookout for new ideas and inspirations, so please don't hesitate to contact me.
 
 I am affiliated with the [Past Present Sustainability Research Unit](https://researchportal.helsinki.fi/en/organisations/past-present-sustainability-paes-research-unit).
