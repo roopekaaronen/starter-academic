@@ -79,8 +79,8 @@ email: "first.lastname@helsinki.fi"
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the University of Helsinki. My interests include sustainable cultural evolution, collective behaviour change, and decision-making under uncertainty. I have a soft spot for complex systems and philosophy of science.
+I am a postdoctoral researcher at the University of Helsinki. My research interests vary from cognitive science to cultural evolution and sustainability science. Currently I am most interested in how humans cultures evolve rules of thumb to solve everyday problems. I have a soft spot for complex systems and philosophy of science.
 
-In my free time I am an amateur musician who enjoys nature, hiking, foraging, [photography](https://500px.com/roopekaaronen), and kayaking. I also write popular science. I am always on the lookout for new ideas and inspirations, so please don't hesitate to contact me.
+In my free time I am an amateur musician who enjoys nature, hiking, foraging, [photography](https://500px.com/roopekaaronen), woodwork, and kayaking. I also write [popular science](https://roopekaaronen.com/post/media). I am always on the lookout for new ideas and inspirations, so please don't hesitate to contact me.
 
 I am affiliated with the [Past Present Sustainability Research Unit](https://researchportal.helsinki.fi/en/organisations/past-present-sustainability-paes-research-unit).

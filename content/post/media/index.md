@@ -1,12 +1,12 @@
 ---
 title: List of popular scientific articles and media appearances.
-subtitle: I write pop science in English and Finnish.
+subtitle: I write popular science in English and Finnish.
 
 reading_time: false
 
 
 # Summary for listings and search engines
-summary: "I write pop science in English and Finnish."
+summary: "Popular science in English and Finnish."
 
 # Link this post with a project
 projects: []
@@ -15,7 +15,7 @@ projects: []
 date: "2020-12-13T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2022-08-13T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -45,16 +45,11 @@ categories:
 ---
 
 # English
-## Popular science
+## Select popular science
 - [The Ecology of Design, The Side View](https://thesideview.co/journal/ecology-of-design/)
 - [The Art of Mushroom Foraging, The Side View](https://thesideview.co/journal/the-art-of-mushroom-foraging/)
-- [The Public Voice in Architecture, The Conventions](https://www.theconventions.com/articles/society/the-public-voice-in-architecture)
-- [Social Learning in Local Communities, The Conventions](https://www.theconventions.com/articles/society/social-learning-in-local-communities)
-- [The Role of Libraries in a Metamodern Society, The Conventions](https://www.theconventions.com/articles/society/the-role-of-libraries-in-a-metamodern-society)
-- [Environmentalism as an Experiential Education, The Conventions](https://www.theconventions.com/articles/society/environmentalism-as-an-experiential-education)
-- [The Need for Imagining Reality, The Conventions](https://www.theconventions.com/articles/society/the-need-for-imagining-reality)
-- [The Ecology of Ecological Behavior, The Conventions](https://www.theconventions.com/articles/society/the-ecology-of-ecological-behavior)
-- [Much Ado About Impact, The Conventions](https://www.theconventions.com/articles/society/much-ado-about-impact)
+- [Rules of Thumb and Adaptive Rationality, The Side View](https://thesideview.co/journal/rules-of-thumb-and-adaptive-rationality/)
+
 ## In media
 - [The Side View Podcast](https://thesideview.co/podcasts/tsv-episode-5/)
 - [Increasing opportunities for sustainable behaviour, IIASA](https://www.iiasa.ac.at/web/home/about/news/200124-sustainable-bahavior.html)
@@ -63,7 +58,7 @@ categories:
 
 
 # Finnish
-## Popular science
+## Select popular science
 - [Sosiaaliset keikahduspisteet ja kestävät elämäntavat, Visio](https://ajatuspajavisio.fi/ajankohtaista/blogivieras-sosiaaliset-keikahduspisteet/)
 - [Kestävyyskriisi on myös suunnittelukriisi, WISE](https://wiseproject.fi/kestavyyskriisi-on-myos-suunnittelukriisi/)
 - [Riskienhallintaa sienimetsässä, WISE](https://wiseproject.fi/riskienhallintaa-sienimetsassa/)

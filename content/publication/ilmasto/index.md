@@ -1,16 +1,15 @@
 ---
-title: "Applying Cultural Evolution to Address Climate and Environmental Challenges"
+title: "Ilmastolakoista ilmastovaaleihin – ympäristökansalaisuuden uudet muodot"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- "Timothy Waring"
-- "Monique Borgerhoff Mulder"
+- "Anna Pulkka"
 
 date: "2022-05-05T00:00:00Z"
-doi: "10.31219/osf.io/u7hvj"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -22,9 +21,9 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *OSF (preprint)*
+publication: In *Planeetan kokoinen arki*
 
-abstract: Reducing human impacts on Earth’s biological systems is an urgent global priority. However, while the necessary technical solutions are now very well understood, the social process of developing, refining, and implementing those solutions through social, cultural, behavioral and policy change, remains beyond current scientific understanding and technical capacity. We develop the case that the young science of cultural evolution can be of use in achieving sustainable and just human futures. We suggest that the process of cumulative adaptive cultural evolution is directly implicated in the emergence of global anthropogenic ecological destruction. In addition, the process of cultural evolution is also involved in any effort to foster the emergence and spread of the practices and policies needed to mitigate human impacts. We review the current research linking cultural evolution to modern climate and environmental challenges and propose a research agenda to accelerate a social change towards an environmentally stable future.
+abstract:
 
 
 # Summary. An optional shortened abstract.
@@ -40,7 +39,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://osf.io/u7hvj/download'
+# url_pdf:
 #url_code: 
 #url_dataset: 
 #url_poster: ''
