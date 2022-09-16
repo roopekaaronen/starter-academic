@@ -1,5 +1,5 @@
 ---
-title: "Body-based units of measure in cultural evolution"
+title: "Body-Based Units of Measure in Cultural Evolution"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -10,7 +10,7 @@ authors:
 - Jussi T. Eronen
 
 
-date: "2021-09-25T00:00:00Z"
+date: "2021-09-18T00:00:00Z"
 doi: "10.31219/osf.io/rjde7"
 
 # Schedule page publish date (NOT publication's date).
