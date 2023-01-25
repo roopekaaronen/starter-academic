@@ -30,7 +30,7 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: In *PsyArXiv*
 
-abstract: This article makes the argument that all intelligence is best understood as collective intelligence.
+abstract: In this article we make the argument that all intelligence is best understood as collective intelligence.
 
 # Summary. An optional shortened abstract.
 summary: 

@@ -25,7 +25,7 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: In *Anthropocene Review*
 
-abstract: This article reviews how cultures around the world have used simple heuristics, or "rules of thumb", to solve problems and design technologies.
+abstract: In this article we review how cultures around the world have used simple heuristics, or "rules of thumb", to solve problems and design technologies.
 
 # Summary. An optional shortened abstract.
 summary: 
