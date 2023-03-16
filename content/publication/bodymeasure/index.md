@@ -25,7 +25,7 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: In *OSF Preprints*
 
-abstract: This article documents the use of body-based units in 186 cultures, and discusses the role of body-based measurement systems in cultural and technological evolution.
+abstract: This article documents the use of body-based units of measure in 186 cultures, and discusses the role of body-based measurement systems in cultural and technological evolution.
 
 # Summary. An optional shortened abstract.
 summary: 
